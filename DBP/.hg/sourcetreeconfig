@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<RepositoryCustomSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LastUsedView>Log</LastUsedView>
+  <AutoRefresh>true</AutoRefresh>
+  <LogBranchFilterIndex>0</LogBranchFilterIndex>
+  <SidebarExpandedItems>
+    <string>File Status</string>
+    <string>Branches</string>
+    <string>Remotes</string>
+  </SidebarExpandedItems>
+  <SidebarWidth>140</SidebarWidth>
+  <AutoRefreshRemotes>true</AutoRefreshRemotes>
+  <LastCheckedRemotes>2014-04-20T10:29:18.0316793-04:00</LastCheckedRemotes>
+  <RemoteProjectLinks>
+    <RepositoryRemoteProjectLink>
+      <Type>Bitbucket</Type>
+      <BaseUrl>https://bitbucket.org</BaseUrl>
+      <RemoteName>default</RemoteName>
+      <Identifier>GMailley/photoalbum66</Identifier>
+    </RepositoryRemoteProjectLink>
+  </RemoteProjectLinks>
+  <CommitTextLinks />
+  <IncomingSavedCount>0</IncomingSavedCount>
+  <OutgoingSavedCount>0</OutgoingSavedCount>
+</RepositoryCustomSettings>
